@@ -3,11 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "main": "index.js",
-
   "scripts": {
     "start": "node api/index.js"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "4.19.2"
   }
 }
